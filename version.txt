@@ -1,2 +1,2 @@
-1.8.0
+1.9.0
 https://github.com/john4607/oundpad-updates/releases/latest/download/SoundPad.exe
