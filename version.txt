@@ -1,2 +1,2 @@
-1.5.0
-https://raw.githubusercontent.com/john4607/oundpad-updates/main/version.txt
+1.6.0
+https://github.com/john4607/oundpad-updates/releases/latest/download/SoundPad.exe
