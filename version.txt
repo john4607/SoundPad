@@ -1,2 +1,2 @@
-1.3.0
-https://github.com/你的帳號/soundpad-updates/releases/latest/download/SoundPad.exe
+1.5.0
+https://raw.githubusercontent.com/john4607/oundpad-updates/main/version.txt
