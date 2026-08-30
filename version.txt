@@ -1,2 +1,2 @@
-2.2.0
-https://github.com/john4607/youtube-downloader-updates/releases/latest/download/YoutubeDownloader.exe
+2.0.7
+https://github.com/john4607/oundpad-updates/releases/latest/download/SoundPad.exe
