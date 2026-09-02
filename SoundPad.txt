@@ -1,2 +1,2 @@
-2.0.24
+2.0.25
 https://github.com/john4607/SoundPad/releases/download/SoundPad/SoundPad.exe
